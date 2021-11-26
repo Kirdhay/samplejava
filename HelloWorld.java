@@ -3,8 +3,7 @@ class HelloWorld {
         System.out.println( "Hello World!" );
         System.out.println( "Hello Kirdhay!"); 
         System.out.println( "print please!");
-       
-        
+       System.out.println( "print please fro orr!");
 
     }
 }
